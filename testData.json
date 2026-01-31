@@ -1,0 +1,207 @@
+[
+  {
+    "id": "Pos_Fun_0001",
+    "input": "obata suba rathriyak!",
+    "expected": "ඔබට සුබ රත්‍රියක්!",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0002",
+    "input": "mata badaginiyi",
+    "expected": "මට බඩගිනියි",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0003",
+    "input": "sadha panthi ivaravenna parakku una nisaa gedhara enna raee venavaa",
+    "expected": "අද පන්ති ඉවරවෙන්න පරක්කු උන නිසා ගෙදර එන්න රෑ වෙනවා",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0004",
+    "input": "oyaa adha enne naeththan mama tharaha venavaa",
+    "expected": "ඔයා අද එන්නෙ නැත්තන් මම තරහ වෙනවා",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0005",
+    "input": "kohedha inne?",
+    "expected": "කොහෙද ඉන්නේ?",
+    "result": "PASS"
+  },
+
+  {
+    "id": "Pos_Fun_0006",
+    "input": "meeka kiyavanna",
+    "expected": "මේක කියවන්න",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0007",
+    "input": "api heta sellam karanna yanavaa",
+    "expected": "අපි හෙට සෙල්ලම් කරන්න යනවා",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0008",
+    "input": "adha mata enna baehaenee",
+    "expected": "අද මට එන්න බැහැනේ",
+    "result": "PASS"
+  },
+  {
+    "id": "pos_Fun_0009",
+    "input": "adha dhavasa aethulatha enna puluvandha?",
+    "expected": "අද දවස ඇතුලත එන්න පුලුවන්ද?",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0010",
+    "input": "ov , oyaa kivvaa hari",
+    "expected": "ඔව් , ඔයා කිව්වා හරි",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0011",
+    "input": "oyaata puluvannam eyaata kiyanna mama adha enava kiyalaa",
+    "expected": "ඔයාට පුලුවන්නම් එයාට කියන්න මම අද එනව කියලා",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0012",
+    "input": "ehaata venna",
+    "expected": "එහාට වෙන්න",
+    "result": "PASS"
+  },
+    {
+    "id": "Pos_Fun_0013",
+    "input": "dhaen mama gedhara inne",
+    "expected": "දැන් මම ගෙදර ඉන්නේ",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0014",
+    "input": "kiyana dhee ahanna",
+    "expected": "කියන දේ අහන්න",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0015",
+    "input": "adha lectures gihin vaeda tika karaganna oona ",
+    "expected": "අද lectures ගිහින් වැඩ ටික කරගන්න ඕන",
+    "result": "PASS"
+  },
+  {
+    "id": "Neg_Fun_0016",
+    "input": "adhalecturesyannaoona ",
+    "expected": "අදlecturesයන්නඕන",
+    "result": "Pass"
+  },
+  {
+    "id": "Pos_Fun_0017",
+    "input": "api meeka hemin hemin kamu eyalaa enakan ",
+    "expected": "අපි මේක හෙමින් හෙමින් කමු එයලා එනකන්      ",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0018",
+    "input": "oyaage WhatsApp ekayi Email ekayi tikak pariikshaa karalaa balanna 1234 vage ilakkam eevi ",
+    "expected": "ඔයාගෙ WhatsApp එකයි Email එකයි ටිකක් පරීක්ශා කරලා බලන්න 1234 වගෙ ඉලක්කම් ඒවි ",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0019",
+    "input": "mata eeka hariyatama kiyanna baee",
+    "expected": " මට ඒක හරියටම කියන්න බෑ ",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0020",
+    "input": "api first year second semester ekedhii 'Photography management system'ekak haedhuvaa oyalaa haedhuvee 'laundry management system' ekak needha?",
+    "expected": " අපි first year second semester එකෙදී 'Photography management system' එකක් හැදුවා ඔයලා හැදුවේ 'laundry management system' එකක් නේද? ",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_Fun_0021",
+    "input": "oyaa bank app ekata log vedhdhi  oyaage Email ekata OTP ekak enavaa",
+    "expected": " ඔයා bank app එකට log වෙද්දි  ඔයාගෙ Email එකට OTP එකක් එනවා ",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_UI_0022",
+    "input": "mata tharagen dhinala RS.10000 vatina thaeeggak hamba unaa",
+    "expected": " මට තරගෙන් දිනල RS.10000 වටින තෑග්ගක් හම්බ උනා",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_UI_0023",
+    "input": "mama adha gedhara edhdhi 8.30PM pahu venavaa",
+    "expected": " මම අද ගෙදර එද්දි 8.30PM පහු වෙනවා",
+    "result": "PASS"
+  },
+  {
+    "id": "Pos_UI_0024",
+    "input": "eekee bara 5kg kiyala thibbee ",
+    "expected": " ඒකේ බර 5kg කියල තිබ්බේ ",
+    "result": "PASS"
+  },
+  {
+    "id": "Neg_Fun_0025",
+    "input": "mata ada lectures yanna bae ",
+    "expected": " මට අඩ lectures යන්න බැ",
+    "result": "Fail"
+  },
+  {
+    "id": "Pos_Fun_0026",
+    "input": "oya kala aewilla mata kiyanna monavada karanna oona kiyala  ",
+    "expected": " ඔය කල ඇwඉල්ල මට කියන්න මොනවඩ කරන්න ඕන කියල ",
+    "result": "Fail"
+  },
+  {
+    "id": "Neg_UI_0027",
+    "input": "ada lecture eke kiyapu deeval mama oyaata kiyala denna mata kiyanna oyaata 4.00pm  puluvanda mokadha karanne kiyala? ",
+    "expected": " අඩ lecture eke කියපු ඩේවල් මම ඔයාට කියල ඩෙන්න මට කියන්න ඔයාට 4.00pm  පුලුවන්ඩ මොකද කරන්නේ කියල?",
+    "result": "Fail"
+  },
+  {
+    "id": "Neg_Fun_0028",
+    "input": "iiyeoyavelasanagedaragiyane. ",
+    "expected": " ඊයෙඔයවෙලසනගෙඩරගියනෙ.",
+    "result": "Fail"
+  },
+  {
+    "id": "Pos_Fun_0029",
+    "input": "mata meka karanna help karanna puluvanda? ",
+    "expected": "මට මෙක කරන්න help කරන්න පුලුවන්ඩ?",
+    "result": "Fail"
+  },
+  {
+    "id": "Neg_Fun_0030",
+    "input": "mamahetaennena ",
+    "expected": "මමහෙටැන්නෙන",
+    "result": "Fail"
+  },
+  {
+    "id": "Pos_Fun_0031",
+    "input": "oyata mama kivva eka thiyanna kiyala",
+    "expected": "ඔයට මම කිව්ව එක තියන්න කියල",
+    "result": "Fail"
+  },
+  {
+    "id": "Neg_Fun_0032",
+    "input": "den mata meka karana vidiya paetalila inne.",
+    "expected": "den මට මෙක කරන විඩිය පැටලිල ඉන්නේ.",
+    "result": "Fail"
+  },
+  {
+    "id": "Neg_Fun_0033",
+    "input": "mama iyeth oyata me lecture eka kiyala dunnane.",
+    "expected": "මම ඉයෙත් ඔයට මෙ lecture එක කියල ඩුන්නනෙ.",
+    "result": "Fail"
+  },
+  {
+    "id": "Neg_Fun_0034",
+    "input": "mata ada veda karanna venne na ",
+    "expected": "මට අඩ වෙඩ කරන්න වෙන්නෙ න ",
+    "result": "Fail"
+  }
+]
